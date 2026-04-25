@@ -1,0 +1,17 @@
+# Environment variables (contains secrets)
+.env
+
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# MacOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
